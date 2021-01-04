@@ -19,7 +19,8 @@ namespace ERP_PR
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            int 你好嗎 =5;
+            你好嗎++
         }
     }
 }
